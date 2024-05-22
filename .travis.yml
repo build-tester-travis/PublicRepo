@@ -5,9 +5,6 @@ services:
   - docker
 dist: bionic
 
-vm:
-  size: [large]
-
 install: skip
 
 jobs:
