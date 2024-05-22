@@ -4,7 +4,6 @@ language: java
 services:
   - docker
 dist: bionic
-
 install: skip
 
 jobs:
